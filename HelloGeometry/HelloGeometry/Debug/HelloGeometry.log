@@ -1,0 +1,16 @@
+﻿  glad.c
+  Origem.cpp
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(183,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(184,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(189,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(190,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(191,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(192,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(195,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(223,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(251,18): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Projects\Grid-MateusDS\HelloGeometry\HelloGeometry\Origem.cpp(252,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Shader.cpp
+  Gerando Código...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  HelloGeometry.vcxproj -> C:\Projects\Grid-MateusDS\HelloGeometry\Debug\HelloGeometry.exe
